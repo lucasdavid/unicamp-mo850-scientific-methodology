@@ -3,7 +3,7 @@ matplotlib==2.2.0rc1
 notebook==6.4.12
 numpy==1.22.0
 pandas==0.22.0
-scipy==1.0.0
+scipy==1.10.0
 statsmodels==0.8.0
 scikits.bootstrap>=1.0.0
 
